@@ -1,6 +1,6 @@
 <h1 align="center">Hey Guys 👋, I'm Math, aka AuwrahTV !</h1>
 
-<h3 align="center">A professionnal YouTuber/Streamer and developer from Reunion Island.</h3>
+<h3 align="center">A professionnal YouTuber/Streamer from Reunion Island.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=auwrahtv&label=Profile%20views&color=0e75b6&style=flat" alt="auwrahtv" /> </p>
 
